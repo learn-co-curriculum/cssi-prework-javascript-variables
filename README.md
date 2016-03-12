@@ -3,7 +3,7 @@
 
 Much like in math, variables are words or characters that hold values. In algebra, however, variables are only placeholders for numbers. In programming languages like Javascript, a variable can point to almost any type of value including numbers, strings, arrays and objects - which you'll learn more about in later lessons.
 
-You can code-along in the console as you explore this lesson in varaiables. You will learn about
+You can code-along in the console as you explore this lesson in variables. You will learn about
 
 * Variable Assignment 
 * Variable Calls
@@ -66,7 +66,7 @@ Variables can also be assigned to to the results of expressions:
 ```
 
 ##Naming Variables
-Variable names should be **specific** and **relevant** to so that it is easy for other developers to understand what goes inside.
+Variable names should be **specific** and **relevant** so that it is easy for other developers to understand what goes inside.
 ```
 var x = 30; // pretty unintelligible
 var number = 30; // what does the number mean?
