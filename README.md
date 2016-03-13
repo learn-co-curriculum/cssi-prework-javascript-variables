@@ -80,6 +80,10 @@ Variable names are case-sensitive. 'location' has been defined, but "Location" h
 >Location
 ERROR!!
 ```
-Each programming language has a set of best practices - called coding conventions - on how multiple words are handled: camelCase or snake_case. JavaScript developers use camelCase.
+Each programming language has a set of best practices - called coding conventions - on how multiple words are handled: camelCase or snake_case. JavaScript developers use camelCase, in which words are put together without underscores, the first word is lowercased, and then every additional word is capitalized. A few examples of camelCase:
+
+* `var myFirstName = "Danny"`
+* `var schoolName = "Flatiron School"`
+* `var myFavoriteMexicanFoodInSanFrancisco = "La Taqueria on Mission and 25th st"`
 
 Consistency in coding style is very important to maintain code readability in large projects. You can read Google's own style guidelines for Javascript and other languages here: http://google.github.io/styleguide/ .
