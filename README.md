@@ -1,14 +1,16 @@
 
 #Variables and Assignment
 
+## Objectives
+
++ Define a variable.
++ Create and reassign variables.
++ Call JavaScript variables
++ Use proper variable naming conventions
+
 Much like in math, variables are words or characters that hold values. In algebra, however, variables are only placeholders for numbers. In programming languages like Javascript, a variable can point to almost any type of value including numbers, strings, arrays and objects - which you'll learn more about in later lessons.
 
-You can code-along in the console as you explore this lesson in variables. You will learn about
-
-* Variable Assignment 
-* Variable Calls
-* Variable Reassignment
-* Variable Names
+You can code-along in the console as you explore this lesson in variables.
 
 ## Assigning & Initializing Variables
 In Javascript, variables are explicitly declared with the `var` keyword like this:
